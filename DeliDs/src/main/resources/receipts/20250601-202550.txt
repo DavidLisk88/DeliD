@@ -1,0 +1,14 @@
+Order placed: 2025-06-01T20:25:50.061447600
+Chips (Sour Cream & Onion): $1.50
+MEDIUM drink (Lemonade): $2.50
+EIGHT" WHEAT (toasted)
+  Toppings:
+    • Steak (extra x1)
+    • Provolone (extra x1)
+    • Lettuce
+    • Peppers
+    • Onions
+    • Tomatoes
+    • Jalapeños
+  -> $12.10
+Order Total: $16.10

@@ -1,0 +1,14 @@
+Order placed: 2025-06-01T20:14:21.918461700
+Chips (bbq): $1.50
+SMALL drink (Lemonade): $2.00
+FOUR" WHEAT (toasted)
+  Toppings:
+    • Steak
+    • Provolone (extra x1)
+    • Lettuce
+    • Peppers
+    • Tomatoes
+    • Jalapeños
+    • Mayo
+  -> $7.55
+Order Total: $11.05

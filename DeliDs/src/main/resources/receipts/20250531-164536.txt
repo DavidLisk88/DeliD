@@ -1,0 +1,13 @@
+Order placed: 2025-05-31T16:45:36.821396100
+Chips (bbq): $1.50
+MEDIUM drink (Dr. Pepper): $2.50
+EIGHT" RYE (toasted)
+  Toppings:
+    • Steak (extra x1)
+    • American (extra x1)
+    • Lettuce
+    • Peppers
+    • Onions
+    • Mayo
+  -> $12.10
+Order Total: $16.10
